@@ -8,4 +8,8 @@ print(message)
 print(msg)
 # formatted string, this is more optimal for scaling
 print(len(msg))
+# prints the length of the variable msg
 print(msg.upper())
+# prints msg in all CAPS
+print(msg.lower())
+# prints msg in all lowercase
