@@ -17,3 +17,5 @@ print(msg.find('is'))
 # finds the word 'is' in the msg, 'is' is located in the 13th position
 print(msg.replace('i', 'z'))
 # replaces i's with z's
+print('coder' in msg)
+# true or false when looking for things in strings
