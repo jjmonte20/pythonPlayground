@@ -13,3 +13,5 @@ print(msg.upper())
 # prints msg in all CAPS
 print(msg.lower())
 # prints msg in all lowercase
+print(msg.find('is'))
+# finds the word 'is' in the msg, 'is' is located in the 13th position
