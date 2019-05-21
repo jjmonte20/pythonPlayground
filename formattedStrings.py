@@ -8,3 +8,4 @@ print(message)
 print(msg)
 # formatted string, this is more optimal for scaling
 print(len(msg))
+print(msg.upper())
