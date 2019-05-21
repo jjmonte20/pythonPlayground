@@ -7,3 +7,4 @@ print(message)
 # concatenated string
 print(msg)
 # formatted string, this is more optimal for scaling
+print(len(msg))
